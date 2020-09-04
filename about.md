@@ -3,6 +3,5 @@ layout: default
 title: About
 ---
 
-# About page
-
-Here is a page about this site.
+# [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
+See [Github](https://github.com/PandaSekh/Jekyll-YAMT).
