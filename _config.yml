@@ -3,3 +3,8 @@
 title: "Test site"
 name: tomatospy's Home on the internet
 markdown: kramdown
+theme: jekyll-yamt
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
