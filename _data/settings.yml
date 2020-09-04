@@ -1,10 +1,11 @@
 #Google Analytics
-analytics-id: #leave blank to not use Analytics
+analytics-id: UA-177274313-1
+  #leave blank to not use Analytics
 
 #Subtitle
 subtitle:
   active: true
-  text: Yet Another Minimal Theme
+  text: Tom's home on the web
 
 #Nav 
 nav:
