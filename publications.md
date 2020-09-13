@@ -15,7 +15,8 @@ I [examined](https://www.aspi.org.au/report/clean-pipes-should-isps-provide-more
 
 #### [Retweeting through the Firewall](https://www.aspi.org.au/report/retweeting-through-great-firewall)
 
-Twitter released another data set of accounts and tweets that it had determined where sponsored by the Chinese state. This activity was a continuation of that which we saw previously in Tweeting through the Firewall. *12 June 2020*
+The [sequel report](https://www.aspi.org.au/report/retweeting-through-great-firewall) about continuing PRC activity on both Twitter and Facebook, continuing on from what we saw previously in Tweeting through the Firewall. *12 June 2020*
+
 
 #### [Hacking for ca$h](https://www.aspi.org.au/report/hacking-cash)
 
