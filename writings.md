@@ -30,7 +30,7 @@ A [companion](https://www.aspistrategist.org.au/australias-offensive-cyber-capab
 
 ##### [Cambridge Analytica, Facebook and Russian election interference](https://www.aspistrategist.org.au/cambridge-analytica-facebook-russian-election-interference/) 
 
-I [examined](https://www.aspistrategist.org.au/cambridge-analytica-facebook-russian-election-interference/) Russian interference into the 2016 US Presidential election given the fallout from Cambridge Analytica. Many of the techniques that the Russians would have been legal if they were US citizens.
+I [examined](https://www.aspistrategist.org.au/cambridge-analytica-facebook-russian-election-interference/) Russian interference into the 2016 US Presidential election given the fallout from Cambridge Analytica. Many of the techniques that the Russians used would have been legal if they were US citizens.
 
 -*23 March 2018* 
 
