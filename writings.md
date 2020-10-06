@@ -22,6 +22,65 @@ It's often thought that states use cyber operations to punish each other, but I 
 
 —*31 July 2020*
 
+##### [Australia's offensive cyber capability](https://www.aspistrategist.org.au/australias-offensive-cyber-capability/)
+
+A [companion](https://www.aspistrategist.org.au/australias-offensive-cyber-capability/) piece to our [policy brief](https://www.aspi.org.au/report/australias-offensive-cyber-capability) on how Australia thinks about its offensive cyber capability. 
+
+-*10 April 2018*
+
+##### [Cambridge Analytica, Facebook and Russian election interference](https://www.aspistrategist.org.au/cambridge-analytica-facebook-russian-election-interference/) 
+
+I [examined](https://www.aspistrategist.org.au/cambridge-analytica-facebook-russian-election-interference/) Russian interference into the 2016 US Presidential election given the fallout from Cambridge Analytica. Many of the techniques that the Russians would have been legal if they were US citizens.
+
+-*23 March 2018* 
+
+##### [Defence says no to WeChat](https://www.aspistrategist.org.au/defence-says-no-wechat/)
+
+With my colleagues Danielle Cave and Fergus Ryan we [discussed](https://www.aspistrategist.org.au/defence-says-no-wechat/) the reasons behind the Australian Department of Defence's decision to ban the WeChat app from Defence mobile phones.
+
+-*13 March 2018*
+
+##### [Foreign intelligence and Strava’s ‘global heatmap’](https://www.aspistrategist.org.au/foreign-intelligence-stravas-global-heatmap/)
+
+I [wrote](https://www.aspistrategist.org.au/foreign-intelligence-stravas-global-heatmap/) about the theory that Chinese hackers were gathering large data sets that they could mine for national security advantage. I finished with:
+
+> Individually, we all need to make sensible decisions about what data we share and how much of it we allow to be collected. And organisations that collect and store large amounts of personal information need to be aware that they are legitimate foreign intelligence targets and they will be pursued.
+
+Perhaps I shouldn't have used the word legitimate—what is legitimate in the world of cyber espionage is very much in the eye of the beholder.
+
+-*1 February 2018
+
+##### [Cyber trends in 2017: the rise of the global cyberattack](https://www.aspistrategist.org.au/cyber-trends-in-2017-the-rise-of-the-global-cyberattack/)
+
+A brief [summary](https://www.aspistrategist.org.au/cyber-trends-in-2017-the-rise-of-the-global-cyberattack/) of the highlights of the [Cyber maturity in the Asia-Pacific region 2017](https://www.aspi.org.au/report/cyber-maturity-asia-pacific-region-2017) report. 
+
+-*12 December 2017*
+
+##### [Apple, Face ID and privacy](https://www.aspistrategist.org.au/apple-face-id-and-privacy/)
+
+When Apple's FaceID was introduced I wrote about whether it was a privacy risk. Mostly, I think not.
+
+-*5 October 2017*
+
+##### [Cyber threats—democracy under fire on two fronts](https://www.aspistrategist.org.au/cyber-threats-democracy-fire-two-fronts/)
+
+National election campaigns are vulnerable to cyber threats in two main areas: the architecture that collects and tabulates votes and the marketplace of ideas that surrounds a campaign. I [discuss](https://www.aspistrategist.org.au/cyber-threats-democracy-fire-two-fronts/) the risks to elections and what should be done to mitigate them.
+
+-*6 July 2017*
+
+##### [On the inevitable failure of cyber security](https://www.aspistrategist.org.au/inevitable-failure-cybersecurity/)
+
+The rhetoric around government services and cyber security doesn't match the reality. We are [doomed to fail](https://www.aspistrategist.org.au/inevitable-failure-cybersecurity/), but the "_cyber-mettle of an organisation isn’t measured by whether the organisation suffers a compromise, but by how quickly the compromise is discovered, how well it’s contained, and how effectively it’s cleaned up._"
+
+-*27 June 2017*
+
+
+##### [Cyber in 2017: reading last year's tea leaves](https://www.aspistrategist.org.au/cyber-2017-reading-last-years-tea-leaves/) 
+
+My first published [piece](https://www.aspistrategist.org.au/cyber-2017-reading-last-years-tea-leaves/). It looked at the significant events of 2016—Russian interference in the US Presidential election, the Mirai botnet and the Obama-Xi agreement to not conduct cyber espionage for economic gain—and tried to make predictions. I think it holds up well.
+
+-*21 March 2017*
+
 ## Book reviews
 
 I quite enjoy doing book reviews—they force me to engage with the book in a far deeper way than I would just reading it.
