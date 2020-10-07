@@ -42,7 +42,7 @@ Jocelinn Kang and argue that in the light of the Covid-19 we needed to revisit o
 
 ##### [Are we preparing for the right kind of conflict](https://www.aspistrategist.org.au/are-we-preparing-for-the-right-kind-of-conflict/)
 
-I believe that there is a fundamental tension between the values and goals of the Chinese Communist Party and liberal democracies and that will lead to strategic competition (but hopefully not conflict). Australia's government has recognised this with increased defence spending, but I [think](https://www.aspistrategist.org.au/are-we-preparing-for-the-right-kind-of-conflict/) we are spending it on the wrong things and bolstering military hardware rather than strengthening our democracy.
+I believe that there is a fundamental tension between the values and goals of the Chinese Communist Party and liberal democracies and that will lead to strategic competition and possibly even conflict. Australia's government has recognised this with increased defence spending, but I [think](https://www.aspistrategist.org.au/are-we-preparing-for-the-right-kind-of-conflict/) we are spending it on the wrong things and bolstering military hardware rather than strengthening our democracy.
 
 -*20 August 2019* 
 
