@@ -22,6 +22,42 @@ It's often thought that states use cyber operations to punish each other, but I 
 
 —*31 July 2020*
 
+##### [How internet service providers can defend the undefendable](https://www.aspistrategist.org.au/how-internet-service-providers-can-defend-the-undefendable/)
+
+I [argue](https://www.aspistrategist.org.au/how-internet-service-providers-can-defend-the-undefendable/) that ISPs should be doing more to protect their customers from online threats. This has sometimes been called 'Clean Pipes' and was the subject of a [report](https://www.aspi.org.au/report/clean-pipes-should-isps-provide-more-secure-internet) I wrote. Pleasingly, there is now a [Clean Pipes public-private partnership](https://www.afr.com/companies/financial-services/major-banks-form-clean-pipes-consortium-to-block-cyber-criminals-20200918-p55wy2) in Australia that attempts to protect people by blocking malware as it communicating overseas.
+
+-*23 July 2020*
+
+##### [What, who and why: explaining the cyberattacks against Australia](https://www.aspistrategist.org.au/what-who-and-why-explaining-the-cyberattacks-against-australia/)
+
+On 19 June, Prime Minister Scott Morrison, in concert with Defence Minister Linda Reynolds, announced: ‘Australian organisations are currently being targeted by a sophisticated state-based cyber actor.’ My colleagues Danielle Cave, Jocelinn Kang and I [discussed](https://www.aspistrategist.org.au/what-who-and-why-explaining-the-cyberattacks-against-australia/) the significance of the Prime Minister's briefing, who was responsible, and what the government should do next. 
+
+-*25 June 2020
+
+##### [Healthcare sector must be protected from cyberattacks as it deals with Covid-19](https://www.aspistrategist.org.au/healthcare-sector-must-be-protected-from-cyberattacks-as-it-deals-with-covid-19/)
+
+Jocelinn Kang and argue that in the light of the Covid-19 we needed to revisit our assumptions about [priorities](https://www.aspistrategist.org.au/healthcare-sector-must-be-protected-from-cyberattacks-as-it-deals-with-covid-19/), and that one of the new cybersecurity priorities should be healthcare. 
+
+-*27 March 2020* 
+
+##### [Are we preparing for the right kind of conflict](https://www.aspistrategist.org.au/are-we-preparing-for-the-right-kind-of-conflict/)
+
+I believe that there is a fundamental tension between the values and goals of the Chinese Communist Party and liberal democracies and that will lead to strategic competition (but hopefully not conflict). Australia's government has recognised this with increased defence spending, but I [think](https://www.aspistrategist.org.au/are-we-preparing-for-the-right-kind-of-conflict/) we are spending it on the wrong things and bolstering military hardware rather than strengthening our democracy.
+
+-*20 August 2019* 
+
+##### [Weighing the risks in building a 5G network](https://www.aspistrategist.org.au/weighing-the-risks-in-building-a-5g-network/)
+
+What makes Chinese vendors worse when it comes to being trusted with building our critical infrastructure? Aren't all companies suspect? There are [concrete reasons](https://www.aspistrategist.org.au/weighing-the-risks-in-building-a-5g-network/) to rate vendors from different countries differently.
+
+-*17 July 2019* 
+
+##### [Espionage or interference? The attack on Australia’s parliament and political parties](https://www.aspistrategist.org.au/espionage-or-interference-the-attack-on-australias-parliament-and-political-parties/)
+
+Danielle Cave and I write about the news that Australia's political parties had been hacked and whether this was intended to interfere in our upcoming federal election.
+
+-*21 February 2019*
+
 ##### [Australia's offensive cyber capability](https://www.aspistrategist.org.au/australias-offensive-cyber-capability/)
 
 A [companion](https://www.aspistrategist.org.au/australias-offensive-cyber-capability/) piece to our [policy brief](https://www.aspi.org.au/report/australias-offensive-cyber-capability) on how Australia thinks about its offensive cyber capability. 
