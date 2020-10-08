@@ -40,6 +40,12 @@ Jocelinn Kang and argue that in the light of the Covid-19 we needed to revisit o
 
 -*27 March 2020* 
 
+##### [Covid-19 is a long-term crisis that will need long-term solutions](Covid-19 is a long-term crisis that will need long-term solutions)
+
+I laid out some [ambitious thoughts](Covid-19 is a long-term crisis that will need long-term solutions) regarding how to deal with Covid-19.
+
+-*27 March 2020*
+
 ##### [Are we preparing for the right kind of conflict](https://www.aspistrategist.org.au/are-we-preparing-for-the-right-kind-of-conflict/)
 
 I believe that there is a fundamental tension between the values and goals of the Chinese Communist Party and liberal democracies and that will lead to strategic competition and possibly even conflict. Australia's government has recognised this with increased defence spending, but I [think](https://www.aspistrategist.org.au/are-we-preparing-for-the-right-kind-of-conflict/) we are spending it on the wrong things and bolstering military hardware rather than strengthening our democracy.
@@ -48,7 +54,7 @@ I believe that there is a fundamental tension between the values and goals of th
 
 ##### [Weighing the risks in building a 5G network](https://www.aspistrategist.org.au/weighing-the-risks-in-building-a-5g-network/)
 
-What makes Chinese vendors worse when it comes to being trusted with building our critical infrastructure? Aren't all companies suspect? There are [concrete reasons](https://www.aspistrategist.org.au/weighing-the-risks-in-building-a-5g-network/) to rate vendors from different countries differently.
+What makes Chinese vendors worse when it comes to being trusted with building our critical infrastructure? Aren't all companies suspect? There are [concrete reasons](https://www.aspistrategist.org.au/weighing-the-risks-in-building-a-5g-network/) to rate vendors from different countries differently—and the total risk is comprised of vendor specific risk *plus* the risk of deliberate state interference.
 
 -*17 July 2019* 
 
@@ -57,6 +63,22 @@ What makes Chinese vendors worse when it comes to being trusted with building ou
 Danielle Cave and I write about the news that Australia's political parties had been hacked and whether this was intended to interfere in our upcoming federal election.
 
 -*21 February 2019*
+
+##### [Huawei has blown the trust that's needed in high technology](https://www.aspi.org.au/opinion/huawei-has-blown-trust-thats-needed-high-technology)
+
+Originaly published in the Australian Financial Review, I wrote:
+
+> Huawei's alleged behaviour coupled with the Chinese government's wide-ranging commercial espionage are eroding trust in the global supply chain.
+
+The PRC's rhetoric is that the Chinese people and all Chinese companies must support the Communist Party and its goals, but this places its companies in an impossible position. The PRC can have global companies, *or* it can require that its companies must support the Party, but it can't have both.
+
+-*30 January 2019*
+
+##### [Why Australia banned Huawei from its 5G telecoms network](https://www.aspi.org.au/opinion/why-australia-banned-huawei-its-5g-telecoms-network)
+
+Originally published in the Financial Times. I co-wrote [this piece](https://www.aspi.org.au/opinion/why-australia-banned-huawei-its-5g-telecoms-network) with Danielle Cave about why Australia banned 'high-risk vendors' from its 5G build.
+
+-*30 August 2018* 
 
 ##### [Australia's offensive cyber capability](https://www.aspistrategist.org.au/australias-offensive-cyber-capability/)
 
