@@ -106,7 +106,7 @@ I [wrote](https://www.aspistrategist.org.au/foreign-intelligence-stravas-global-
 
 Perhaps I shouldn't have used the word legitimate—what is legitimate in the world of cyber espionage is very much in the eye of the beholder.
 
--*1 February 2018
+-*1 February 2018*
 
 ##### [Cyber trends in 2017: the rise of the global cyberattack](https://www.aspistrategist.org.au/cyber-trends-in-2017-the-rise-of-the-global-cyberattack/)
 
