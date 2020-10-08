@@ -32,7 +32,7 @@ I [argue](https://www.aspistrategist.org.au/how-internet-service-providers-can-d
 
 On 19 June, Prime Minister Scott Morrison, in concert with Defence Minister Linda Reynolds, announced: ‘Australian organisations are currently being targeted by a sophisticated state-based cyber actor.’ My colleagues Danielle Cave, Jocelinn Kang and I [discussed](https://www.aspistrategist.org.au/what-who-and-why-explaining-the-cyberattacks-against-australia/) the significance of the Prime Minister's briefing, who was responsible, and what the government should do next. 
 
--*25 June 2020
+-*25 June 2020*
 
 ##### [Healthcare sector must be protected from cyberattacks as it deals with Covid-19](https://www.aspistrategist.org.au/healthcare-sector-must-be-protected-from-cyberattacks-as-it-deals-with-covid-19/)
 
