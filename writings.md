@@ -145,7 +145,7 @@ I quite enjoy doing book reviews—they force me to engage with the book in a fa
 
 ##### [*The System: Who owns the internet, and how it owns us*](https://www.defence.gov.au/adc/Publications/AJDSS/volume2-number1/review3-the-system-james-ball.asp) by [James Ball](https://twitter.com/jamesrbuk)
 
-This was an interesting book but I didn't agree entirely with Ball's thesis. I [wrote](https://www.defence.gov.au/adc/Publications/AJDSS/volume2-number1/review3-the-system-james-ball.asp):
+This was an interesting book but I didn't entirely [agree](https://www.defence.gov.au/adc/Publications/AJDSS/volume2-number1/review3-the-system-james-ball.asp) with Ball's thesis:
 
 > At its best the book educates and entertains with illuminating, well told stories about poorly understood corners of the internet: how it was created; how it is run; how new companies are financed through venture capital; and its darker aspects like user tracking and the world of targeted advertising. These stories lay bare the underlying incentives that exist online and shape behaviour. But ultimately, this book fails to weave Ball's many varied strands together into an entirely compelling argument.
 
