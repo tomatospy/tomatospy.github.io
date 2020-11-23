@@ -18,11 +18,11 @@ Various opinion pieces or short chapters I've written.
 
 ##### [Can the Australian Public Service rise to the cloud?](https://www.aspistrategist.org.au/can-the-australian-public-service-rise-to-the-cloud/)
 
-The recent [review of the APS](https://www.apsreview.gov.au/) found that the federal government was lagging in its digital delivery of government services, and this piece examines how the government needs to overcome percieved internal barriers, particularly the distinction between operating expenditure and capital expenditure.
+The recent [review of the APS](https://www.apsreview.gov.au/) found that the federal government was lagging in its digital delivery of government services, and [this piece](https://www.aspistrategist.org.au/can-the-australian-public-service-rise-to-the-cloud/) examines how the government needs to overcome percieved internal barriers, particularly the distinction between operating expenditure and capital expenditure.
 
 -*23 November 2020*
 
-##### [Australia's Cyber Security Strategy](https://rusi.org/commentary/australia-cyber-security-strategy) 
+##### [Australia's 2020 Cyber Security Strategy](https://rusi.org/commentary/australia-cyber-security-strategy) 
 
 I [reviewed](https://rusi.org/commentary/australia-cyber-security-strategy) the 2020 version of the Australian Cyber Security Strategy and compared it to the 2016 edition for the Royal United Services Institute. Although the strategy identifies shared responsibility and obligations across government, business and the community, it undercuts this rhetoric by allocating most of the funding to Defence and law enforcement.
 
