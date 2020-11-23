@@ -24,7 +24,7 @@ The recent [review of the APS](https://www.apsreview.gov.au/) found that the fed
 
 ##### [Australia's 2020 Cyber Security Strategy](https://rusi.org/commentary/australia-cyber-security-strategy) 
 
-I [reviewed](https://rusi.org/commentary/australia-cyber-security-strategy) the 2020 version of the Australian Cyber Security Strategy and compared it to the 2016 edition for the Royal United Services Institute. Although the strategy identifies shared responsibility and obligations across government, business and the community, it undercuts this rhetoric by allocating most of the funding to Defence and law enforcement.
+I [reviewed](https://rusi.org/commentary/australia-cyber-security-strategy) the 2020 version of the Australian Cyber Security Strategy for the Royal United Services Institute and compared the strategy to the 2016 edition. Although the strategy identifies shared responsibility and obligations across government, business and the community, it undercuts this rhetoric by allocating most of the funding to Defence and law enforcement.
 
 -*11 November 2020*
 
