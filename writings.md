@@ -16,6 +16,18 @@ customexcerpt: "This is a list of publications I've authored"
 
 Various opinion pieces or short chapters I've written.
 
+##### [Can the Australian Public Service rise to the cloud?](https://www.aspistrategist.org.au/can-the-australian-public-service-rise-to-the-cloud/)
+
+The recent [review of the APS](https://www.apsreview.gov.au/) found that the federal government was lagging in its digital delivery of government services, and this piece examines how the government needs to overcome percieved internal barriers, particularly the distinction between operating expenditure and capital expenditure.
+
+-*23 November 2020*
+
+##### [Australia's Cyber Security Strategy](https://rusi.org/commentary/australia-cyber-security-strategy) 
+
+I [reviewed](https://rusi.org/commentary/australia-cyber-security-strategy) the 2020 version of the Australian Cyber Security Strategy and compared it to the 2016 edition for the Royal United Services Institute. Although the strategy identifies shared responsibility and obligations across government, business and the community, it undercuts this rhetoric by allocating most of the funding to Defence and law enforcement.
+
+-*11 November 2020*
+
 ##### [China's cyber espionage surge in Australia: opportunism not punishment](https://www.aspistrategist.org.au/chinas-cyber-espionage-surge-in-australia-opportunism-not-punishment/)
 
 It's often thought that states use cyber operations to punish each other, but I think that is unlikely, or at least misguided. In the aftermath of the Prime Ministers announcement that Australia was being targeted by a sophisticated state-based actor I [wrote about](https://www.aspistrategist.org.au/chinas-cyber-espionage-surge-in-australia-opportunism-not-punishment/) the reasons why we might be being targeted.
