@@ -16,6 +16,21 @@ customexcerpt: "This is a list of publications I've authored"
 
 Various opinion pieces or short chapters I've written.
 
+##### [US pipeline hack exposes major vulnerabilities](https://www.aspistrategist.org.au/us-pipeline-hack-exposes-major-vulnerabilities/)
+
+The Colonial Pipeline ransomware hack and its implications.
+
+-*27 May 2021*
+
+##### [Microsoft Exchange hack could change the course of US-China relations](https://www.aspistrategist.org.au/microsoft-exchange-hack-could-change-the-course-of-us-china-relations/)
+
+The mass compromise of Microsoft Exchange servers and the potential geopolitical fallout.
+
+-*18 March 2021*
+
+##### [Australia must do more to prepare for a SolarWinds-style supply-chain attack](https://www.aspistrategist.org.au/australia-must-do-more-to-prepare-for-a-solarwinds-style-supply-chain-attack/)
+The SolarWinds hack shows that focussing efforts on improving the Defence and law enforcement cyber security funding is not enough.
+
 ##### [Can the Australian Public Service rise to the cloud?](https://www.aspistrategist.org.au/can-the-australian-public-service-rise-to-the-cloud/)
 
 The recent [review of the APS](https://www.apsreview.gov.au/) found that the federal government was lagging in its digital delivery of government services, and [this piece](https://www.aspistrategist.org.au/can-the-australian-public-service-rise-to-the-cloud/) examines how the government needs to overcome percieved internal barriers, particularly the distinction between operating expenditure and capital expenditure.
