@@ -228,7 +228,7 @@ Twitter released a data set of accounts and tweets that it had determined where 
 
 ##### [Australia’s Offensive Cyber Capability](https://www.aspi.org.au/report/australias-offensive-cyber-capability)
 
-This report sheds some light on the nature of Australia’s offensive cyber capability, and explains how it is used consistently with International Humanitarian Law.
+This [report](https://www.aspi.org.au/report/australias-offensive-cyber-capability) sheds some light on the nature of Australia’s offensive cyber capability, and explains how it is used consistently with International Humanitarian Law.
 
 -*10 April 2018*
 
