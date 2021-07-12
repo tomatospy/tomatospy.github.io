@@ -226,6 +226,12 @@ Twitter released a data set of accounts and tweets that it had determined where 
 
 **Spoiler alert**: 'cyber weapons' are not a thing and options for control mostly involve making cyber operations more expensive and encouraging responsible use. I'm also skeptical about 'cyber norms', mostly because too many people talk about them as if they will restrain state actions all by themselves.
 
+##### [Australia’s Offensive Cyber Capability](https://www.aspi.org.au/report/australias-offensive-cyber-capability)
+
+This report sheds some light on the nature of Australia’s offensive cyber capability, and explains how it is used consistently with International Humanitarian Law.
+
+-*10 April 2018*
+
 ##### [The Internet of Insecure Things](https://www.aspi.org.au/report/InternetOfInsecureThings)
 
 [This paper](https://www.aspi.org.au/report/InternetOfInsecureThings) looks at the security issues surrounding what are known as Internet of Things devices, small, often consumer-grade internet-connected devices that typically have very poor levels of security. 
