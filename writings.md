@@ -107,6 +107,11 @@ Originally published in the Financial Times. I co-wrote [this piece](https://www
 
 -*30 August 2018* 
 
+##### [The technical reasons why Huawei is too great a 5G risk](https://www.afr.com/opinion/the-technical-reasons-why-huawei-too-great-a-5g-risk-20180614-h11e3o)
+An [opinion piece](https://www.afr.com/opinion/the-technical-reasons-why-huawei-too-great-a-5g-risk-20180614-h11e3o) published in the *Australian Financial Review*
+
+-*14 June 2018*
+
 ##### [Australia's offensive cyber capability](https://www.aspistrategist.org.au/australias-offensive-cyber-capability/)
 
 A [companion](https://www.aspistrategist.org.au/australias-offensive-cyber-capability/) piece to our [policy brief](https://www.aspi.org.au/report/australias-offensive-cyber-capability) on how Australia thinks about its offensive cyber capability. 
