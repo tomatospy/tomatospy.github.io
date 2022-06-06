@@ -1,5 +1,5 @@
 ---
-title: Writings
+title: Introduction
 layout: post
 categories: [publications]
 image: /assets/img/iris_keyboard.jpg
