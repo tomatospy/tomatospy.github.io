@@ -108,7 +108,7 @@ Originally published in the Financial Times. I co-wrote [this piece](https://www
 -*30 August 2018* 
 
 ##### [The technical reasons why Huawei is too great a 5G risk](https://www.afr.com/opinion/the-technical-reasons-why-huawei-too-great-a-5g-risk-20180614-h11e3o)
-An [opinion piece](https://www.afr.com/opinion/the-technical-reasons-why-huawei-too-great-a-5g-risk-20180614-h11e3o) published in the *Australian Financial Review*. There are many ways to subvert a system when you provide its key infrastructure, but why use backdoors or bugs when your people can also provide insider access. 
+An [opinion piece](https://www.afr.com/opinion/the-technical-reasons-why-huawei-too-great-a-5g-risk-20180614-h11e3o) published in the *Australian Financial Review*. There are many ways to subvert a system when you provide its key infrastructure, but why use backdoors or bugs when people can also provide insider access. 
 
 -*14 June 2018*
 
