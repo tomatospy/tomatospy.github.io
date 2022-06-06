@@ -1,1 +1,286 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://tomatospy.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tomatospy.github.io/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2022-06-06T01:33:10+00:00</updated><id>https://tomatospy.github.io/feed.xml</id><title type="html">TOMATOSPY</title><subtitle>Tom's home on the net</subtitle><author><name>Tom Uren</name><email></email></author><entry><title type="html">Initial post</title><link href="https://tomatospy.github.io/2020/09/06/Test.html" rel="alternate" type="text/html" title="Initial post" /><published>2020-09-06T00:00:00+00:00</published><updated>2020-09-06T00:00:00+00:00</updated><id>https://tomatospy.github.io/2020/09/06/Test</id><content type="html" xml:base="https://tomatospy.github.io/2020/09/06/Test.html">&lt;p&gt;This site contains links to my &lt;a href=&quot;/writings.html&quot;&gt;published works&lt;/a&gt;.&lt;/p&gt;</content><author><name>Tom Uren</name></author><summary type="html">This site contains links to my published works.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tomatospy.github.io/assets/img/oranges.jpg" /><media:content medium="image" url="https://tomatospy.github.io/assets/img/oranges.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://tomatospy.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tomatospy.github.io/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2022-06-06T01:47:44+00:00</updated><id>https://tomatospy.github.io/feed.xml</id><title type="html">TOMATOSPY</title><subtitle>Tom's home on the net</subtitle><author><name>Tom Uren</name><email></email></author><entry><title type="html">Writings</title><link href="https://tomatospy.github.io/2022/06/06/Introduction.html" rel="alternate" type="text/html" title="Writings" /><published>2022-06-06T00:00:00+00:00</published><updated>2022-06-06T00:00:00+00:00</updated><id>https://tomatospy.github.io/2022/06/06/Introduction</id><content type="html" xml:base="https://tomatospy.github.io/2022/06/06/Introduction.html">&lt;p&gt;&lt;img src=&quot;/assets/img/iris_keyboard.jpg&quot; alt=&quot;Iris keyboard&quot; /&gt;&lt;/p&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#shorter-pieces&quot; id=&quot;markdown-toc-shorter-pieces&quot;&gt;Shorter pieces&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#us-pipeline-hack-exposes-major-vulnerabilities&quot; id=&quot;markdown-toc-us-pipeline-hack-exposes-major-vulnerabilities&quot;&gt;US pipeline hack exposes major vulnerabilities&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#microsoft-exchange-hack-could-change-the-course-of-us-china-relations&quot; id=&quot;markdown-toc-microsoft-exchange-hack-could-change-the-course-of-us-china-relations&quot;&gt;Microsoft Exchange hack could change the course of US-China relations&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#australia-must-do-more-to-prepare-for-a-solarwinds-style-supply-chain-attack&quot; id=&quot;markdown-toc-australia-must-do-more-to-prepare-for-a-solarwinds-style-supply-chain-attack&quot;&gt;Australia must do more to prepare for a SolarWinds-style supply-chain attack&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#can-the-australian-public-service-rise-to-the-cloud&quot; id=&quot;markdown-toc-can-the-australian-public-service-rise-to-the-cloud&quot;&gt;Can the Australian Public Service rise to the cloud?&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#australias-2020-cyber-security-strategy&quot; id=&quot;markdown-toc-australias-2020-cyber-security-strategy&quot;&gt;Australia’s 2020 Cyber Security Strategy&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#chinas-cyber-espionage-surge-in-australia-opportunism-not-punishment&quot; id=&quot;markdown-toc-chinas-cyber-espionage-surge-in-australia-opportunism-not-punishment&quot;&gt;China’s cyber espionage surge in Australia: opportunism not punishment&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#how-internet-service-providers-can-defend-the-undefendable&quot; id=&quot;markdown-toc-how-internet-service-providers-can-defend-the-undefendable&quot;&gt;How internet service providers can defend the undefendable&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#what-who-and-why-explaining-the-cyberattacks-against-australia&quot; id=&quot;markdown-toc-what-who-and-why-explaining-the-cyberattacks-against-australia&quot;&gt;What, who and why: explaining the cyberattacks against Australia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#healthcare-sector-must-be-protected-from-cyberattacks-as-it-deals-with-covid-19&quot; id=&quot;markdown-toc-healthcare-sector-must-be-protected-from-cyberattacks-as-it-deals-with-covid-19&quot;&gt;Healthcare sector must be protected from cyberattacks as it deals with Covid-19&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#covid-19-is-a-long-term-crisis-that-will-need-long-term-solutions&quot; id=&quot;markdown-toc-covid-19-is-a-long-term-crisis-that-will-need-long-term-solutions&quot;&gt;Covid-19 is a long-term crisis that will need long-term solutions&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#are-we-preparing-for-the-right-kind-of-conflict&quot; id=&quot;markdown-toc-are-we-preparing-for-the-right-kind-of-conflict&quot;&gt;Are we preparing for the right kind of conflict&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#weighing-the-risks-in-building-a-5g-network&quot; id=&quot;markdown-toc-weighing-the-risks-in-building-a-5g-network&quot;&gt;Weighing the risks in building a 5G network&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#espionage-or-interference-the-attack-on-australias-parliament-and-political-parties&quot; id=&quot;markdown-toc-espionage-or-interference-the-attack-on-australias-parliament-and-political-parties&quot;&gt;Espionage or interference? The attack on Australia’s parliament and political parties&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#huawei-has-blown-the-trust-thats-needed-in-high-technology&quot; id=&quot;markdown-toc-huawei-has-blown-the-trust-thats-needed-in-high-technology&quot;&gt;Huawei has blown the trust that’s needed in high technology&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#why-australia-banned-huawei-from-its-5g-telecoms-network&quot; id=&quot;markdown-toc-why-australia-banned-huawei-from-its-5g-telecoms-network&quot;&gt;Why Australia banned Huawei from its 5G telecoms network&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#the-technical-reasons-why-huawei-is-too-great-a-5g-risk&quot; id=&quot;markdown-toc-the-technical-reasons-why-huawei-is-too-great-a-5g-risk&quot;&gt;The technical reasons why Huawei is too great a 5G risk&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#australias-offensive-cyber-capability&quot; id=&quot;markdown-toc-australias-offensive-cyber-capability&quot;&gt;Australia’s offensive cyber capability&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cambridge-analytica-facebook-and-russian-election-interference&quot; id=&quot;markdown-toc-cambridge-analytica-facebook-and-russian-election-interference&quot;&gt;Cambridge Analytica, Facebook and Russian election interference&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#defence-says-no-to-wechat&quot; id=&quot;markdown-toc-defence-says-no-to-wechat&quot;&gt;Defence says no to WeChat&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#foreign-intelligence-and-stravas-global-heatmap&quot; id=&quot;markdown-toc-foreign-intelligence-and-stravas-global-heatmap&quot;&gt;Foreign intelligence and Strava’s ‘global heatmap’&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cyber-trends-in-2017-the-rise-of-the-global-cyberattack&quot; id=&quot;markdown-toc-cyber-trends-in-2017-the-rise-of-the-global-cyberattack&quot;&gt;Cyber trends in 2017: the rise of the global cyberattack&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#apple-face-id-and-privacy&quot; id=&quot;markdown-toc-apple-face-id-and-privacy&quot;&gt;Apple, Face ID and privacy&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cyber-threatsdemocracy-under-fire-on-two-fronts&quot; id=&quot;markdown-toc-cyber-threatsdemocracy-under-fire-on-two-fronts&quot;&gt;Cyber threats—democracy under fire on two fronts&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#on-the-inevitable-failure-of-cyber-security&quot; id=&quot;markdown-toc-on-the-inevitable-failure-of-cyber-security&quot;&gt;On the inevitable failure of cyber security&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cyber-in-2017-reading-last-years-tea-leaves&quot; id=&quot;markdown-toc-cyber-in-2017-reading-last-years-tea-leaves&quot;&gt;Cyber in 2017: reading last year’s tea leaves&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#book-reviews&quot; id=&quot;markdown-toc-book-reviews&quot;&gt;Book reviews&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#the-system-who-owns-the-internet-and-how-it-owns-us-by-james-ball&quot; id=&quot;markdown-toc-the-system-who-owns-the-internet-and-how-it-owns-us-by-james-ball&quot;&gt;&lt;em&gt;The System: Who owns the internet, and how it owns us&lt;/em&gt; by James Ball&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#the-hacker-and-the-state-by-ben-buchanan&quot; id=&quot;markdown-toc-the-hacker-and-the-state-by-ben-buchanan&quot;&gt;&lt;em&gt;The Hacker and the State&lt;/em&gt; by Ben Buchanan&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#publications&quot; id=&quot;markdown-toc-publications&quot;&gt;Publications&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#clean-pipes-should-isps-provide-a-more-secure-internet&quot; id=&quot;markdown-toc-clean-pipes-should-isps-provide-a-more-secure-internet&quot;&gt;Clean Pipes: Should ISPs provide a more secure internet?&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#retweeting-through-the-firewall&quot; id=&quot;markdown-toc-retweeting-through-the-firewall&quot;&gt;Retweeting through the Firewall&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hacking-for-cah&quot; id=&quot;markdown-toc-hacking-for-cah&quot;&gt;Hacking for ca$h&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tweeting-through-the-firewall&quot; id=&quot;markdown-toc-tweeting-through-the-firewall&quot;&gt;Tweeting through the Firewall&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#defining-offensive-cyber-capabilities&quot; id=&quot;markdown-toc-defining-offensive-cyber-capabilities&quot;&gt;Defining Offensive Cyber Capabilities&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#australias-offensive-cyber-capability-1&quot; id=&quot;markdown-toc-australias-offensive-cyber-capability-1&quot;&gt;Australia’s Offensive Cyber Capability&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#the-internet-of-insecure-things&quot; id=&quot;markdown-toc-the-internet-of-insecure-things&quot;&gt;The Internet of Insecure Things&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cyber-maturity-in-the-asia-pacific-region-2017&quot; id=&quot;markdown-toc-cyber-maturity-in-the-asia-pacific-region-2017&quot;&gt;Cyber Maturity in the Asia Pacific Region 2017&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;shorter-pieces&quot;&gt;Shorter pieces&lt;/h2&gt;
+
+&lt;p&gt;Various opinion pieces or short chapters I’ve written.&lt;/p&gt;
+
+&lt;h5 id=&quot;us-pipeline-hack-exposes-major-vulnerabilities&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/us-pipeline-hack-exposes-major-vulnerabilities/&quot;&gt;US pipeline hack exposes major vulnerabilities&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;The Colonial Pipeline ransomware hack and its implications.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;27 May 2021&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;microsoft-exchange-hack-could-change-the-course-of-us-china-relations&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/microsoft-exchange-hack-could-change-the-course-of-us-china-relations/&quot;&gt;Microsoft Exchange hack could change the course of US-China relations&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;The mass compromise of Microsoft Exchange servers and the potential geopolitical fallout.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;18 March 2021&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;australia-must-do-more-to-prepare-for-a-solarwinds-style-supply-chain-attack&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/australia-must-do-more-to-prepare-for-a-solarwinds-style-supply-chain-attack/&quot;&gt;Australia must do more to prepare for a SolarWinds-style supply-chain attack&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;The SolarWinds hack shows that focussing efforts on improving the Defence and law enforcement cyber security funding is not enough.&lt;/p&gt;
+
+&lt;h5 id=&quot;can-the-australian-public-service-rise-to-the-cloud&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/can-the-australian-public-service-rise-to-the-cloud/&quot;&gt;Can the Australian Public Service rise to the cloud?&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;The recent &lt;a href=&quot;https://www.apsreview.gov.au/&quot;&gt;review of the APS&lt;/a&gt; found that the federal government was lagging in its digital delivery of government services, and &lt;a href=&quot;https://www.aspistrategist.org.au/can-the-australian-public-service-rise-to-the-cloud/&quot;&gt;this piece&lt;/a&gt; examines how the government needs to overcome percieved internal barriers, particularly the distinction between operating expenditure and capital expenditure.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;23 November 2020&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;australias-2020-cyber-security-strategy&quot;&gt;&lt;a href=&quot;https://rusi.org/commentary/australia-cyber-security-strategy&quot;&gt;Australia’s 2020 Cyber Security Strategy&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;I &lt;a href=&quot;https://rusi.org/commentary/australia-cyber-security-strategy&quot;&gt;reviewed&lt;/a&gt; the 2020 version of the Australian Cyber Security Strategy for the Royal United Services Institute and compared the strategy to the 2016 edition. Although the strategy identifies shared responsibility and obligations across government, business and the community, it undercuts this rhetoric by allocating most of the funding to Defence and law enforcement.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;11 November 2020&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;chinas-cyber-espionage-surge-in-australia-opportunism-not-punishment&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/chinas-cyber-espionage-surge-in-australia-opportunism-not-punishment/&quot;&gt;China’s cyber espionage surge in Australia: opportunism not punishment&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;It’s often thought that states use cyber operations to punish each other, but I think that is unlikely, or at least misguided. In the aftermath of the Prime Ministers announcement that Australia was being targeted by a sophisticated state-based actor I &lt;a href=&quot;https://www.aspistrategist.org.au/chinas-cyber-espionage-surge-in-australia-opportunism-not-punishment/&quot;&gt;wrote about&lt;/a&gt; the reasons why we might be being targeted.&lt;/p&gt;
+
+&lt;p&gt;—&lt;em&gt;31 July 2020&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;how-internet-service-providers-can-defend-the-undefendable&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/how-internet-service-providers-can-defend-the-undefendable/&quot;&gt;How internet service providers can defend the undefendable&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;I &lt;a href=&quot;https://www.aspistrategist.org.au/how-internet-service-providers-can-defend-the-undefendable/&quot;&gt;argue&lt;/a&gt; that ISPs should be doing more to protect their customers from online threats. This has sometimes been called ‘Clean Pipes’ and was the subject of a &lt;a href=&quot;https://www.aspi.org.au/report/clean-pipes-should-isps-provide-more-secure-internet&quot;&gt;report&lt;/a&gt; I wrote. Pleasingly, there is now a &lt;a href=&quot;https://www.afr.com/companies/financial-services/major-banks-form-clean-pipes-consortium-to-block-cyber-criminals-20200918-p55wy2&quot;&gt;Clean Pipes public-private partnership&lt;/a&gt; in Australia that attempts to protect people by blocking malware as it communicating overseas.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;23 July 2020&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;what-who-and-why-explaining-the-cyberattacks-against-australia&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/what-who-and-why-explaining-the-cyberattacks-against-australia/&quot;&gt;What, who and why: explaining the cyberattacks against Australia&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;On 19 June, Prime Minister Scott Morrison, in concert with Defence Minister Linda Reynolds, announced: ‘Australian organisations are currently being targeted by a sophisticated state-based cyber actor.’ My colleagues Danielle Cave, Jocelinn Kang and I &lt;a href=&quot;https://www.aspistrategist.org.au/what-who-and-why-explaining-the-cyberattacks-against-australia/&quot;&gt;discussed&lt;/a&gt; the significance of the Prime Minister’s briefing, who was responsible, and what the government should do next.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;25 June 2020&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;healthcare-sector-must-be-protected-from-cyberattacks-as-it-deals-with-covid-19&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/healthcare-sector-must-be-protected-from-cyberattacks-as-it-deals-with-covid-19/&quot;&gt;Healthcare sector must be protected from cyberattacks as it deals with Covid-19&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Jocelinn Kang and argue that in the light of the Covid-19 we needed to revisit our assumptions about &lt;a href=&quot;https://www.aspistrategist.org.au/healthcare-sector-must-be-protected-from-cyberattacks-as-it-deals-with-covid-19/&quot;&gt;priorities&lt;/a&gt;, and that one of the new cybersecurity priorities should be healthcare.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;27 March 2020&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;covid-19-is-a-long-term-crisis-that-will-need-long-term-solutions&quot;&gt;&lt;a href=&quot;Covid-19 is a long-term crisis that will need long-term solutions&quot;&gt;Covid-19 is a long-term crisis that will need long-term solutions&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;I laid out some &lt;a href=&quot;Covid-19 is a long-term crisis that will need long-term solutions&quot;&gt;ambitious thoughts&lt;/a&gt; regarding how to deal with Covid-19.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;27 March 2020&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;are-we-preparing-for-the-right-kind-of-conflict&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/are-we-preparing-for-the-right-kind-of-conflict/&quot;&gt;Are we preparing for the right kind of conflict&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;I believe that there is a fundamental tension between the values and goals of the Chinese Communist Party and liberal democracies and that will lead to strategic competition and possibly even conflict. Australia’s government has recognised this with increased defence spending, but I &lt;a href=&quot;https://www.aspistrategist.org.au/are-we-preparing-for-the-right-kind-of-conflict/&quot;&gt;think&lt;/a&gt; we are spending it on the wrong things and bolstering military hardware rather than strengthening our democracy.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;20 August 2019&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;weighing-the-risks-in-building-a-5g-network&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/weighing-the-risks-in-building-a-5g-network/&quot;&gt;Weighing the risks in building a 5G network&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;What makes Chinese vendors worse when it comes to being trusted with building our critical infrastructure? Aren’t all companies suspect? There are &lt;a href=&quot;https://www.aspistrategist.org.au/weighing-the-risks-in-building-a-5g-network/&quot;&gt;concrete reasons&lt;/a&gt; to rate vendors from different countries differently—and the total risk is comprised of vendor specific risk &lt;em&gt;plus&lt;/em&gt; the risk of deliberate state interference.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;17 July 2019&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;espionage-or-interference-the-attack-on-australias-parliament-and-political-parties&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/espionage-or-interference-the-attack-on-australias-parliament-and-political-parties/&quot;&gt;Espionage or interference? The attack on Australia’s parliament and political parties&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Danielle Cave and I write about the news that Australia’s political parties had been hacked and whether this was intended to interfere in our upcoming federal election.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;21 February 2019&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;huawei-has-blown-the-trust-thats-needed-in-high-technology&quot;&gt;&lt;a href=&quot;https://www.aspi.org.au/opinion/huawei-has-blown-trust-thats-needed-high-technology&quot;&gt;Huawei has blown the trust that’s needed in high technology&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Originaly published in the Australian Financial Review, I wrote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Huawei’s alleged behaviour coupled with the Chinese government’s wide-ranging commercial espionage are eroding trust in the global supply chain.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The PRC’s rhetoric is that the Chinese people and all Chinese companies must support the Communist Party and its goals, but this places its companies in an impossible position. The PRC can have global companies, &lt;em&gt;or&lt;/em&gt; it can require that its companies must support the Party, but it can’t have both.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;30 January 2019&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;why-australia-banned-huawei-from-its-5g-telecoms-network&quot;&gt;&lt;a href=&quot;https://www.aspi.org.au/opinion/why-australia-banned-huawei-its-5g-telecoms-network&quot;&gt;Why Australia banned Huawei from its 5G telecoms network&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Originally published in the Financial Times. I co-wrote &lt;a href=&quot;https://www.aspi.org.au/opinion/why-australia-banned-huawei-its-5g-telecoms-network&quot;&gt;this piece&lt;/a&gt; with Danielle Cave about why Australia banned ‘high-risk vendors’ from its 5G build.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;30 August 2018&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;the-technical-reasons-why-huawei-is-too-great-a-5g-risk&quot;&gt;&lt;a href=&quot;https://www.afr.com/opinion/the-technical-reasons-why-huawei-too-great-a-5g-risk-20180614-h11e3o&quot;&gt;The technical reasons why Huawei is too great a 5G risk&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;An &lt;a href=&quot;https://www.afr.com/opinion/the-technical-reasons-why-huawei-too-great-a-5g-risk-20180614-h11e3o&quot;&gt;opinion piece&lt;/a&gt; published in the &lt;em&gt;Australian Financial Review&lt;/em&gt;. There are many ways to subvert a system when you provide its key infrastructure, but why use backdoors or bugs when people can also provide insider access.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;14 June 2018&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;australias-offensive-cyber-capability&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/australias-offensive-cyber-capability/&quot;&gt;Australia’s offensive cyber capability&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;A &lt;a href=&quot;https://www.aspistrategist.org.au/australias-offensive-cyber-capability/&quot;&gt;companion&lt;/a&gt; piece to our &lt;a href=&quot;https://www.aspi.org.au/report/australias-offensive-cyber-capability&quot;&gt;policy brief&lt;/a&gt; on how Australia thinks about its offensive cyber capability.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;10 April 2018&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;cambridge-analytica-facebook-and-russian-election-interference&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/cambridge-analytica-facebook-russian-election-interference/&quot;&gt;Cambridge Analytica, Facebook and Russian election interference&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;I &lt;a href=&quot;https://www.aspistrategist.org.au/cambridge-analytica-facebook-russian-election-interference/&quot;&gt;examined&lt;/a&gt; Russian interference into the 2016 US Presidential election given the fallout from Cambridge Analytica. Many of the techniques that the Russians used would have been legal if they were US citizens.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;23 March 2018&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;defence-says-no-to-wechat&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/defence-says-no-wechat/&quot;&gt;Defence says no to WeChat&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;With my colleagues Danielle Cave and Fergus Ryan we &lt;a href=&quot;https://www.aspistrategist.org.au/defence-says-no-wechat/&quot;&gt;discussed&lt;/a&gt; the reasons behind the Australian Department of Defence’s decision to ban the WeChat app from Defence mobile phones.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;13 March 2018&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;foreign-intelligence-and-stravas-global-heatmap&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/foreign-intelligence-stravas-global-heatmap/&quot;&gt;Foreign intelligence and Strava’s ‘global heatmap’&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;I &lt;a href=&quot;https://www.aspistrategist.org.au/foreign-intelligence-stravas-global-heatmap/&quot;&gt;wrote&lt;/a&gt; about the theory that Chinese hackers were gathering large data sets that they could mine for national security advantage. I finished with:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Individually, we all need to make sensible decisions about what data we share and how much of it we allow to be collected. And organisations that collect and store large amounts of personal information need to be aware that they are legitimate foreign intelligence targets and they will be pursued.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Perhaps I shouldn’t have used the word legitimate—what is legitimate in the world of cyber espionage is very much in the eye of the beholder.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;1 February 2018&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;cyber-trends-in-2017-the-rise-of-the-global-cyberattack&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/cyber-trends-in-2017-the-rise-of-the-global-cyberattack/&quot;&gt;Cyber trends in 2017: the rise of the global cyberattack&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;A brief &lt;a href=&quot;https://www.aspistrategist.org.au/cyber-trends-in-2017-the-rise-of-the-global-cyberattack/&quot;&gt;summary&lt;/a&gt; of the highlights of the &lt;a href=&quot;https://www.aspi.org.au/report/cyber-maturity-asia-pacific-region-2017&quot;&gt;Cyber maturity in the Asia-Pacific region 2017&lt;/a&gt; report.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;12 December 2017&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;apple-face-id-and-privacy&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/apple-face-id-and-privacy/&quot;&gt;Apple, Face ID and privacy&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;When Apple’s FaceID was introduced I wrote about whether it was a privacy risk. Mostly, I think not.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;5 October 2017&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;cyber-threatsdemocracy-under-fire-on-two-fronts&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/cyber-threats-democracy-fire-two-fronts/&quot;&gt;Cyber threats—democracy under fire on two fronts&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;National election campaigns are vulnerable to cyber threats in two main areas: the architecture that collects and tabulates votes and the marketplace of ideas that surrounds a campaign. I &lt;a href=&quot;https://www.aspistrategist.org.au/cyber-threats-democracy-fire-two-fronts/&quot;&gt;discuss&lt;/a&gt; the risks to elections and what should be done to mitigate them.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;6 July 2017&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;on-the-inevitable-failure-of-cyber-security&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/inevitable-failure-cybersecurity/&quot;&gt;On the inevitable failure of cyber security&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;The rhetoric around government services and cyber security doesn’t match the reality. We are &lt;a href=&quot;https://www.aspistrategist.org.au/inevitable-failure-cybersecurity/&quot;&gt;doomed to fail&lt;/a&gt;, but the “&lt;em&gt;cyber-mettle of an organisation isn’t measured by whether the organisation suffers a compromise, but by how quickly the compromise is discovered, how well it’s contained, and how effectively it’s cleaned up.&lt;/em&gt;”&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;27 June 2017&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;cyber-in-2017-reading-last-years-tea-leaves&quot;&gt;&lt;a href=&quot;https://www.aspistrategist.org.au/cyber-2017-reading-last-years-tea-leaves/&quot;&gt;Cyber in 2017: reading last year’s tea leaves&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;My first published &lt;a href=&quot;https://www.aspistrategist.org.au/cyber-2017-reading-last-years-tea-leaves/&quot;&gt;piece&lt;/a&gt;. It looked at the significant events of 2016—Russian interference in the US Presidential election, the Mirai botnet and the Obama-Xi agreement to not conduct cyber espionage for economic gain—and tried to make predictions. I think it holds up well.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;21 March 2017&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;book-reviews&quot;&gt;Book reviews&lt;/h2&gt;
+
+&lt;p&gt;I quite enjoy doing book reviews—they force me to engage with the book in a far deeper way than I would just reading it.&lt;/p&gt;
+
+&lt;h5 id=&quot;the-system-who-owns-the-internet-and-how-it-owns-us-by-james-ball&quot;&gt;&lt;a href=&quot;https://www.defence.gov.au/adc/Publications/AJDSS/volume2-number1/review3-the-system-james-ball.asp&quot;&gt;&lt;em&gt;The System: Who owns the internet, and how it owns us&lt;/em&gt;&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/jamesrbuk&quot;&gt;James Ball&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;This was an interesting book but I didn’t entirely &lt;a href=&quot;https://www.defence.gov.au/adc/Publications/AJDSS/volume2-number1/review3-the-system-james-ball.asp&quot;&gt;agree&lt;/a&gt; with Ball’s thesis:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At its best the book educates and entertains with illuminating, well told stories about poorly understood corners of the internet: how it was created; how it is run; how new companies are financed through venture capital; and its darker aspects like user tracking and the world of targeted advertising. These stories lay bare the underlying incentives that exist online and shape behaviour. But ultimately, this book fails to weave Ball’s many varied strands together into an entirely compelling argument.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&quot;the-hacker-and-the-state-by-ben-buchanan&quot;&gt;&lt;a href=&quot;https://insidestory.org.au/war-by-other-means/&quot;&gt;&lt;em&gt;The Hacker and the State&lt;/em&gt;&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/buchananben&quot;&gt;Ben Buchanan&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;This was a good book and I think worth reading if you are interested in the geopolitical import of cyber operations and how they are used. From &lt;a href=&quot;https://insidestory.org.au/war-by-other-means/&quot;&gt;my review&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In a nutshell, Buchanan’s argument is that cyber operations are good for shaping but not for signalling. In high-stakes international statecraft, cyber capabilities are a versatile way of changing the facts on the ground, altering the balance of power, and seizing the advantage. Like all covert operations, though, they aren’t good for signalling intentions. Even when the effects of a cyber operation are visible, victims are often reluctant to reveal details publicly, and the expertise and time needed to determine who did what makes it difficult to quickly and reliably judge what has happened, who was to blame, and why they did it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;publications&quot;&gt;Publications&lt;/h2&gt;
+
+&lt;p&gt;Here are the longer publications and reports that I’ve authored or co-authored.&lt;/p&gt;
+
+&lt;h5 id=&quot;clean-pipes-should-isps-provide-a-more-secure-internet&quot;&gt;&lt;a href=&quot;https://www.aspi.org.au/report/clean-pipes-should-isps-provide-more-secure-internet&quot;&gt;Clean Pipes: Should ISPs provide a more secure internet?&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;I &lt;a href=&quot;https://www.aspi.org.au/report/clean-pipes-should-isps-provide-more-secure-internet&quot;&gt;examined&lt;/a&gt; the rationale for ISPs to do more to protect their customers from dangers online.&lt;/p&gt;
+
+&lt;p&gt;—&lt;em&gt;23 July 2020&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;retweeting-through-the-firewall&quot;&gt;&lt;a href=&quot;https://www.aspi.org.au/report/retweeting-through-great-firewall&quot;&gt;Retweeting through the Firewall&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.aspi.org.au/report/retweeting-through-great-firewall&quot;&gt;sequel report&lt;/a&gt; about continuing PRC activity on both Twitter and Facebook, continuing on from what we saw previously in Tweeting through the Firewall.&lt;/p&gt;
+
+&lt;p&gt;—&lt;em&gt;12 June 2020&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;hacking-for-cah&quot;&gt;&lt;a href=&quot;https://www.aspi.org.au/report/hacking-cash&quot;&gt;Hacking for ca$h&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.aspi.org.au/report/hacking-cash&quot;&gt;This report&lt;/a&gt; examined whether the PRC was abiding by the various high-level agreements it had made to stop cyber espionage for commercial gain.&lt;/p&gt;
+
+&lt;p&gt;—&lt;em&gt;25 September 2018&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spoiler alert&lt;/strong&gt;: at the time this report came out it was still possible that they were… although now it is clear that they haven’t.&lt;/p&gt;
+
+&lt;h5 id=&quot;tweeting-through-the-firewall&quot;&gt;&lt;a href=&quot;https://www.aspi.org.au/report/tweeting-through-great-firewall&quot;&gt;Tweeting through the Firewall&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Twitter released a data set of accounts and tweets that it had determined where involved in a state sponsored information operation targeting the Hong Kong anti-extradition law protests. A team of us &lt;a href=&quot;https://www.aspi.org.au/report/tweeting-through-great-firewall&quot;&gt;analysed&lt;/a&gt; this data set.&lt;/p&gt;
+
+&lt;p&gt;—&lt;em&gt;3 September 2019&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;defining-offensive-cyber-capabilities&quot;&gt;&lt;a href=&quot;https://www.aspi.org.au/report/defining-offensive-cyber-capabilities&quot;&gt;Defining Offensive Cyber Capabilities&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.aspi.org.au/report/defining-offensive-cyber-capabilities&quot;&gt;Here&lt;/a&gt; I define offensive cyber capabilites as: &lt;em&gt;using operations to manipulate, deny, disrupt, degrade, or destroy targeted computers, information systems or networks&lt;/em&gt;, and then discuss various options for control.&lt;/p&gt;
+
+&lt;p&gt;—&lt;em&gt;4 July 2018&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spoiler alert&lt;/strong&gt;: ‘cyber weapons’ are not a thing and options for control mostly involve making cyber operations more expensive and encouraging responsible use. I’m also skeptical about ‘cyber norms’, mostly because too many people talk about them as if they will restrain state actions all by themselves.&lt;/p&gt;
+
+&lt;h5 id=&quot;australias-offensive-cyber-capability-1&quot;&gt;&lt;a href=&quot;https://www.aspi.org.au/report/australias-offensive-cyber-capability&quot;&gt;Australia’s Offensive Cyber Capability&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;This &lt;a href=&quot;https://www.aspi.org.au/report/australias-offensive-cyber-capability&quot;&gt;report&lt;/a&gt; sheds some light on the nature of Australia’s offensive cyber capability, and explains how it is used consistently with International Humanitarian Law.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;10 April 2018&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;the-internet-of-insecure-things&quot;&gt;&lt;a href=&quot;https://www.aspi.org.au/report/InternetOfInsecureThings&quot;&gt;The Internet of Insecure Things&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.aspi.org.au/report/InternetOfInsecureThings&quot;&gt;This paper&lt;/a&gt; looks at the security issues surrounding what are known as Internet of Things devices, small, often consumer-grade internet-connected devices that typically have very poor levels of security.&lt;/p&gt;
+
+&lt;p&gt;—&lt;em&gt;19 March 2018&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;cyber-maturity-in-the-asia-pacific-region-2017&quot;&gt;&lt;a href=&quot;https://www.aspi.org.au/report/cyber-maturity-asia-pacific-region-2017&quot;&gt;Cyber Maturity in the Asia Pacific Region 2017&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;A &lt;a href=&quot;https://www.aspi.org.au/report/cyber-maturity-asia-pacific-region-2017&quot;&gt;round-up&lt;/a&gt; of the ‘cyber maturity’ of 25 countries Asia-Pacific countries, where maturity was measured by taking account of a range of governance, legal and societal metrics.&lt;/p&gt;
+
+&lt;p&gt;—&lt;em&gt;2017&lt;/em&gt;&lt;/p&gt;</content><author><name>Tom Uren</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tomatospy.github.io/assets/img/iris_keyboard.jpg" /><media:content medium="image" url="https://tomatospy.github.io/assets/img/iris_keyboard.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Initial post</title><link href="https://tomatospy.github.io/2020/09/06/Test.html" rel="alternate" type="text/html" title="Initial post" /><published>2020-09-06T00:00:00+00:00</published><updated>2020-09-06T00:00:00+00:00</updated><id>https://tomatospy.github.io/2020/09/06/Test</id><content type="html" xml:base="https://tomatospy.github.io/2020/09/06/Test.html">&lt;p&gt;This site contains links to my &lt;a href=&quot;/writings.html&quot;&gt;published works&lt;/a&gt;.&lt;/p&gt;</content><author><name>Tom Uren</name></author><summary type="html">This site contains links to my published works.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tomatospy.github.io/assets/img/oranges.jpg" /><media:content medium="image" url="https://tomatospy.github.io/assets/img/oranges.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
